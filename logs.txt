@@ -1,0 +1,37 @@
+C:\Users\zLc\Desktop\Stefan\School\Софтверско Инженерство\SI_2023_lab1_216026>git log
+commit 4c70ac44a6332e5006b5c81d43982c999d6230a3 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 18:57:38 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit bfbc99b185a4a85bb17f71cd1acb8f259e6c5c37
+Merge: fd2b946 d8e13e0
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 19:28:10 2023 +0100
+
+    Merge branch 'bug2'
+
+commit d8e13e0d983368bf82157e51b2ea09044830a9f8 (origin/bug2, bug2)
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 18:56:08 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit fd2b946ac52cf5afa95e1919a21536e954c3fcb3 (origin/bug1, bug1)
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 18:54:22 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 63f8a3ef35a636a82767099292e33ad4ca566556
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 18:44:21 2023 +0100
+
+    Add java class
+
+commit e150f1b8b3a6ffdef62e9c7d36dabbb177917e40
+Author: zLc362 <70441747+zLc362@users.noreply.github.com>
+Date:   Sat Mar 18 18:40:18 2023 +0100
+
+    Initial commit
